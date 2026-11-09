@@ -34,4 +34,4 @@ A route is a walk line drawn in the theme's accent color. It follows the OSM foo
 
 ## What this does not do yet
 
-It does not render a map, download a city extract, or pick a final theme. The next step is one city, one vector extract, and the two paints plus the visitor layer on top of both.
+It does not render a map, download a city extract, or pick a final theme. The next step is one city, one vector extract, and the two paints plus the visitor layer on top of both. The build is specified in [TECHNICAL.md](TECHNICAL.md).
